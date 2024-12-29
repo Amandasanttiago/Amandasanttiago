@@ -44,7 +44,7 @@ Também desenvolvo soluções interativas com **Power BI** e **SQL** para manipu
 </p>
 
 <div align="center">
-  <a href="https://github.com/SeuUsuario" target="_blank">GitHub</a> |
+  <a href="https://github.com/Amandasanttiago" target="_blank">GitHub</a> |
   <a href="https://www.linkedin.com/in//amanda-beatriz-data-cience" target="_blank">LinkedIn</a>
 </div>
 
