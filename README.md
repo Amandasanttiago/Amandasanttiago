@@ -1,6 +1,6 @@
 <!-- Título em Markdown -->
-## Olá Pessoal! Eu sou a Amanda
-Sejam bem-vindos ao meu GitHub! :wave:
+## Olá Pessoal! :wave: Eu sou a Amanda
+Sejam bem-vindos ao meu GitHub! 
 
 <!-- Pequena descrição em HTML -->
 Estudante de <strong>análise de dados</strong> e <strong>automação de processos</strong>, apaixonada por tecnologia e aprendizagem contínua.
